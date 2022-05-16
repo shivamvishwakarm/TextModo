@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textModo/static/css/main.26c937e4.css",
+    "main.js": "/textModo/static/js/main.d8e8c1c7.js",
+    "index.html": "/textModo/index.html",
+    "main.26c937e4.css.map": "/textModo/static/css/main.26c937e4.css.map",
+    "main.d8e8c1c7.js.map": "/textModo/static/js/main.d8e8c1c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c937e4.css",
+    "static/js/main.d8e8c1c7.js"
+  ]
+}

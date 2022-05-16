@@ -1,0 +1,21 @@
+.red-Circle{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+cursor: pointer;
+    border-radius: 50px;
+}
+.green-Circle{
+    width: 30px;
+    height: 30px;
+    background-color: darkgreen;
+cursor: pointer;
+    border-radius: 50px;
+}
+.dark-Circle{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+cursor: pointer;
+    border-radius: 50px;
+}
